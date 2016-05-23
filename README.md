@@ -9,20 +9,20 @@ These are the requirments needs to be install in order to execute this project:
 
 
 ## API Reference
-#### class2
-
->**method1**
-
 #### class1
 
->**method3**
->**method2**
->**method1**
++**method3**
++**method1**
++**method2**
+
+#### class2
+
++**method1**
 
 
 
 ## Dependency graph
-<img src='image/example1_graph.png' height=320>
+
 
 ## Contributor
 get recent participant of the projects
