@@ -1,25 +1,27 @@
 # Introduction
-TODO: Describe the about 'test_app'
+TODO: Describe the about `test_app`
 # Requirements
 These are the requirments needs to be install in order to execute this project: 
-'''information need to execute'''
+```information need to execute```
 # Installation
 TODO: Describe the installation process
-''' code'''
+``` code```
 # API Reference
 #### class2
+
 **method1**
 description
 
 
 #### class1
-**method1**
-description
 
 **method2**
 description
 
 **method3**
+description
+
+**method1**
 description
 
 
