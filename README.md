@@ -8,37 +8,23 @@ These are the requirments needs to be install in order to execute this project:
 ```information need to execute```
 
 
-## Installation
-TODO: Describe the installation process
-``` code
-```
-
-
 ## API Reference
 #### class2
 
-**method1**
-description
-
++**method1**
 
 #### class1
 
-**method2**
-description
-
-**method3**
-description
-
-**method1**
-description
-
++**method3**
++**method2**
++**method1**
 
 
 
 ## Dependency graph
 
 
-## Contributor & Maintainers
+## Contributor
 get recent participant of the projects
 
 
