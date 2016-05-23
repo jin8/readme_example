@@ -22,7 +22,7 @@ These are the requirments needs to be install in order to execute this project:
 
 
 ## Dependency graph
-<img src='image/example1_graph.png' height=720>
+<img src='image/example1_graph.png' height=480>
 
 ## Contributor
 get recent participant of the projects
