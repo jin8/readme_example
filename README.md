@@ -11,22 +11,22 @@ These are the requirments needs to be install in order to execute this project:
 ## API Reference
 #### class2
 
-  **method1**
+  +**method1**
 
 
 #### class1
 
-  **method1**
+  +**method1**
 
-  **method2**
+  +**method3**
 
-  **method3**
+  +**method2**
 
 
 
 
 ## Dependency graph
-![Dependency Graph of the project]('image/example1_graph.png')
+![Dependency Graph of the project](image/example1_graph.png)
 
 
 ## Contributor
