@@ -11,22 +11,22 @@ These are the requirments needs to be install in order to execute this project:
 ## API Reference
 #### class1
 
-_____**method2**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**method3**
 
-_____**method1**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**method1**
 
-_____**method3**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**method2**
 
 
 #### class2
 
-_____**method1**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**method1**
 
 
 
 
 ## Dependency graph
-![Dependency Graph of the project](http://res.cloudinary.com/jin8/image/upload/example_graph.jpg)
+<p align='center'>![Dependency Graph of the project](http://res.cloudinary.com/jin8/image/upload/example_graph.png)</p>
 
 
 ## Contributor
