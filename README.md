@@ -1,39 +1,68 @@
-## Introduction
+# AutoDoTestApp
+### Introduction
 TODO: Describe the about the project 
 
 
-## Requirements
-These are the requirments needs to be install in order to execute this project: 
+### Requirements
+These are the requirements needs to be install in order to execute this project: 
 
-```information need to execute```
-
-
-## API Reference
-#### class1
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**method2**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**method1**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**method3**
+```
+INPUT
+```
 
 
-#### class2
+### API Reference
+##### Circle(object)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**method1**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__init__(self, radius)**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**get_area(self)**
 
-
-
-## Dependency graph
-<p align='center'><img src='http://res.cloudinary.com/jin8/image/upload/example_graph.png'/></p>
-
-
-## Contributor
-get recent participant of the projects
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**get_circumference(self)**
 
 
-## License
-get license of the project
+##### Math(object)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__init__(self)**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**calculate_circle(self, radius)**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**calculate_square(self, x, y)**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**calculate_triangle(self, angle1, angle2, angle3)**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**get_mean(self)**
+
+
+##### Square(object)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__init__(self, width, height)**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**get_area(self)**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**get_height(self)**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**get_width(self)**
+
+
+##### Triangle(object)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__init__(self, angle1, angle2, angle3)**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**check_angle(self)**
+
+
+
+
+### Dependency graph
+<p align='center'><img src='http://res.cloudinary.com/jin8/image/upload/v1464876679/AutoDoTestApp.png'/></p>
+
+
+### Contributor
+INPUT
+
+
+### License
+INPUT
 
 
