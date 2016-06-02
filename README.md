@@ -14,7 +14,7 @@ INPUT
 ### API Reference
 ##### Circle(object)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**/__init__/(self, radius)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\__init__\(self, radius)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**get_area(self)**
 
